@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "vap-virtual-assistant-in-python"
+version = "0.1.0"
+description = "a small aplication to make things easier by voice command"
+authors = ["RenePessoto <rene.pessoto@gmail.com>"]
+readme = "README.md"
+packages = [{include = "vap_virtual_assistant_in_python"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pyttsx3 = "^2.90"
+gTTS = "^2.3.1"
+SpeechRecognition = "^3.9.0"
+bs4 = "^0.0.1"
+
+[tool.poetry.group.dev.dependencies]
+blue = "^0.9.1"
+isort = "^5.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
