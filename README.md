@@ -37,6 +37,7 @@ Personalização
 Você pode personalizar o assistente de voz adicionando novos comandos e interações. Também é possível modificar as respostas padrão do assistente e ajustar as configurações de áudio.
 
 Conclusão
+
 O Voice Assistant é uma ferramenta poderosa para automatizar tarefas e tornar a interação com o computador mais natural e intuitiva.
 Se você está procurando um assistente de voz simples e fácil de usar, recomendo dar uma olhada nesse código.
 
